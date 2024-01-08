@@ -26,8 +26,9 @@ My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
-[^2023 EEI][A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 EEI</div>
+<div class='paper-box-text' markdown="1">
+[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
 
 **Yin Huang**; Zhongyuan Lai; Hui Lan; Jinshan Sun
 
