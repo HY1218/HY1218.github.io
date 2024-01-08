@@ -21,19 +21,19 @@ redirect_from:
 
 My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023 EEI</div>
-<div class='paper-box-text' markdown="1">
-[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
+
+**[2023 EEI]**[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
 
 **Yin Huang**; Zhongyuan Lai; Hui Lan; Jinshan Sun
 
-[^2022 ICETCI][TGNN: Topic-aware Graph Neural Network for Identifying Fake News from Social Media](https://ieeexplore.ieee.org/document/9832149)  
+**[2022 ICETCI]**[TGNN: Topic-aware Graph Neural Network for Identifying Fake News from Social Media](https://ieeexplore.ieee.org/document/9832149)  
 Wang Gao; Mingyuan Ni; **Yin Huang**  
+
+# INTERNSHIP EXPERIENCES
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
