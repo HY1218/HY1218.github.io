@@ -27,6 +27,8 @@ My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 # Publications 
 
+</div></div>
+<div class='paper-box-text' markdown="1">
 
 
 [A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
