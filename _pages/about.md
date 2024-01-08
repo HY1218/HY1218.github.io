@@ -24,28 +24,59 @@ My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 # 📝 Publications 
 
 **[2023 EEI]**[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
-
-**Yin Huang**; Zhongyuan Lai; Hui Lan; Jinshan Sun
+**Yin Huang**; Zhongyuan Lai; Hui Lan; Jinshan Sun  
 
 **[2022 ICETCI]**[TGNN: Topic-aware Graph Neural Network for Identifying Fake News from Social Media](https://ieeexplore.ieee.org/document/9832149)  
 Wang Gao; Mingyuan Ni; **Yin Huang**  
 
-# INTERNSHIP EXPERIENCES
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Internship Experiences
+- **Datang Internet Technology (Wuhan) Co., Ltd.**&emsp;&emsp;06/2023-07/2023
+&emsp;&emsp;Data warehouse construction, data analysis based on big data components geared towards business data needs  
+&emsp;&emsp;Processed of data sets and model creation, training, and evaluation using the JAVA programming language
+
+-  **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;09/2023-11/2023  
+&emsp;&emsp;-Label and process raw data to train and evaluate AI product related algorithms, functionality and performance  
+&emsp;&emsp;-Monitor, analyse, and manage AI product application data.
+
+# 📖 PROJECTS EXPERIENCES
+- **Fishing Circle**  
+&emsp;&emsp;-Accomplished features like automatic oxygenation and feeding, environmental regulation, early warning, remote control of mobile phone APP, establishment of AI knowledge base to assist breeding, etc  
+&emsp;&emsp;-As a project leader, provide overall co-ordination and planning for the project. Responsible for the underwater fish target identification component   
+&emsp;**Project results:**  
+&emsp;&emsp;&emsp;"Challenge Cup" Student Entrepreneurship Programme Competition&emsp;Bronze Award  
+&emsp;&emsp;&emsp;Internet+ College Students Innovation and Entrepreneurship Competition&emsp;Bronze Award  
+&emsp;&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../images/patent.jpg)
+
+- **Sightpath - Driving Behaviour Detection and Analysis**  
+&emsp;&emsp;-Design a driving detection system to monitor whether drivers engage in illegal driving behaviors, including fatigue driving, making phone calls, drinking water, etc  
+&emsp;&emsp;-Responsible for model construction and testing to improve model accuracy  
+**Project results:**  
+&emsp;&emsp;&emsp;China University Computer Design Competition&emsp;Third Prize  
+&emsp;&emsp;&emsp;[A software copyright:Sightpath - Driving Behavior Detection and Analysis Software System V1.0](../images/copyright.jpg)
 
 
-#  Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Autonomous driving, the future has arrived**  
+&emsp;&emsp;-Collect 792 questionnaires and conduct statistical analysis on the data. Establish a model to explore the factors that affect the willingness to use and pay of shared autonomous vehicle (SAV)  
+&emsp;&emsp;-In charge of model construction and text mining to determine the significant features of the SAV user group  
+**Project results:**  
+&emsp;&emsp;&emsp;National Student Market Research and Analysis Competition&emsp;Third Prize  
+&emsp;&emsp;&emsp;![China National University Student Innovation & Entrepreneurship Development Program](../images/certificate.jpg)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Awards
+- 2023&emsp;National Scholarship  
+- 2022&emsp;Wuhan City Government Scholarship  
+- 2022&emsp;The First Prize Scholarship of Jianghan University  
+- 2021&2023&emsp;Outstanding Student Leader Scholarship of Jianghan University  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 External Exchange Programmes
+- *2023.01*&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge
+&emsp;&emsp;Establish the ability to think about problems in multiple dimensions through professional lectures and interactive classes
+![../images/certificate1.jpg]
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"</div><img src='images/certificate1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.01*&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge
+&emsp;&emsp;Establish the ability to think about problems in multiple dimensions through professional lectures and interactive classes<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
