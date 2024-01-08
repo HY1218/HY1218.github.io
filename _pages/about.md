@@ -30,9 +30,13 @@ My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
+[^2023 EEI][A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
 
 **Yin Huang**; Zhongyuan Lai; Hui Lan; Jinshan Sun
+
+[^2022 ICETCI][TGNN: Topic-aware Graph Neural Network for Identifying Fake News from Social Media](https://ieeexplore.ieee.org/document/9832149)  
+Wang Gao; Mingyuan Ni; **Yin Huang**  
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
