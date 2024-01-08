@@ -26,7 +26,7 @@ My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
-
+<div class='paper-box'><div class='paper-box-image'>
 </div></div>
 <div class='paper-box-text' markdown="1">
 
