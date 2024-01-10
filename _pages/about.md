@@ -31,12 +31,12 @@ redirect_from:
 Wang Gao; Mingyuan Ni; **Yin Huang**  
 
 # 💻 Internship Experiences
-- **Datang Internet Technology (Wuhan) Co., Ltd.**&emsp;&emsp;06/2023-07/2023  
+- **Datang Internet Technology (Wuhan) Co., Ltd.**&emsp;&emsp;2023.06-2023.07  
 &emsp;&emsp;-Data warehouse construction, data analysis based on big data components geared towards business data needs  
 &emsp;&emsp;-Processed of data sets and model creation, training, and evaluation used the JAVA programming language
 
 
-- **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;09/2023-11/2023  
+- **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;2023.11-2023.09  
 &emsp;&emsp;-Label and process raw data to train and evaluate AI product related algorithms, functionality and performance  
 &emsp;&emsp;-Monitor, analyse, and manage AI product application data
 
@@ -72,11 +72,11 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 - 2021&2023&emsp;Outstanding Student Leader Scholarship of Jianghan University  
 
 # 💬 External Exchange Programmes
-- *2023.01*&emsp;&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge  
+- *2023.01-2023.02*&emsp;&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge  
 &emsp;&emsp;Established the ability to think about problems in multiple dimensions through professional lectures and interactive classes  
 &emsp;&emsp;Finally obtained project certificates and passed the exam  
 ![certificate](../images/certificate1.jpg)
-- *2023.01*&emsp;&emsp;Future Elite Project&emsp;&emsp;University of Hong Kong  
+- *2023.08*&emsp;&emsp;Future Elite Project&emsp;&emsp;University of Hong Kong  
 &emsp;&emsp;Studied courses at the University of Hong Kong, experienced the corporate culture of Prudential  
 &emsp;&emsp;Ultimately obtained project certificates and recommendation letters  
 ![certificate](../images/certificate2.jpg)![certificate](../images/certificate3.jpg)
