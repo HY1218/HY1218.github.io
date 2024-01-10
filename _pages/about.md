@@ -40,7 +40,7 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 &emsp;&emsp;-Label and process raw data to train and evaluate AI product related algorithms, functionality and performance  
 &emsp;&emsp;-Monitor, analyse, and manage AI product application data
 
-# 📖 PROJECTS EXPERIENCES
+# 📖 Projects Experiences
 - **Fishing Circle**  
 &emsp;&emsp;-Accomplished features like automatic oxygenation and feeding, environmental regulation, early warning, remote control of mobile phone APP, establishment of AI knowledge base to assist breeding, etc  
 &emsp;&emsp;-As a project leader, provided overall co-ordination and planning for the project. Responsible for the underwater fish target identification component   
