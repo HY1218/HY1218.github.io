@@ -70,10 +70,10 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 
 # 💬 External Exchange Programmes
 - *2023.01*&emsp;&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge  
-&emsp;&emsp;Establish the ability to think about problems in multiple dimensions through professional lectures and interactive classes
+&emsp;&emsp;Establish the ability to think about problems in multiple dimensions through professional lectures and interactive classes  
 ![../images/certificate1.jpg]
 - *2023.01*&emsp;&emsp;Future Elite Project&emsp;&emsp;University of Hong Kong  
 &emsp;&emsp;Studied courses at the University of Hong Kong, experienced the corporate culture of Prudential
-&emsp;&emsp;Ultimately obtained project certificates and recommendation letters
+&emsp;&emsp;Ultimately obtained project certificates and recommendation letters  
 ![../images/certificate2.jpg]![../images/certificate3.jpg]
 
