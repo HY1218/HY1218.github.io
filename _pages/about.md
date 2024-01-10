@@ -32,8 +32,8 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 
 # 💻 Internship Experiences
 - **Datang Internet Technology (Wuhan) Co., Ltd.**&emsp;&emsp;06/2023-07/2023  
-&emsp;&emsp;Data warehouse construction, data analysis based on big data components geared towards business data needs  
-&emsp;&emsp;Processed of data sets and model creation, training, and evaluation used the JAVA programming language
+&emsp;&emsp;-Data warehouse construction, data analysis based on big data components geared towards business data needs  
+&emsp;&emsp;-Processed of data sets and model creation, training, and evaluation used the JAVA programming language
 
 
 - **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;09/2023-11/2023  
@@ -44,24 +44,24 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 - **Fishing Circle**  
 &emsp;&emsp;-Accomplished features like automatic oxygenation and feeding, environmental regulation, early warning, remote control of mobile phone APP, establishment of AI knowledge base to assist breeding, etc  
 &emsp;&emsp;-As a project leader, provided overall co-ordination and planning for the project. Responsible for the underwater fish target identification component   
-**Project results:**  
+***Project results:***  
 &emsp;&emsp;"Challenge Cup" Student Entrepreneurship Programme Competition&emsp;Bronze Award  
 &emsp;&emsp;Internet+ College Students Innovation and Entrepreneurship Competition&emsp;Bronze Award  
-&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../images/patent.jpg)
-&emsp;
-&emsp;
+&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../images/patent.jpg)  
+
+
 - **Sightpath - Driving Behaviour Detection and Analysis**  
 &emsp;&emsp;-Designed a driving detection system to monitor whether drivers engage in illegal driving behaviors, including fatigue driving, making phone calls, drinking water, etc  
 &emsp;&emsp;-In charge of model construction and testing to improve model accuracy  
-*Project results:*  
+***Project results:***   
 &emsp;&emsp;&emsp;China University Computer Design Competition&emsp;Third Prize  
-&emsp;&emsp;&emsp;[A software copyright:Sightpath - Driving Behavior Detection and Analysis Software System V1.0](../images/copyright.jpg)
-&emsp;
-&emsp;
+&emsp;&emsp;&emsp;[A software copyright:Sightpath - Driving Behavior Detection and Analysis Software System V1.0](../images/copyright.jpg)  
+
+
 - **Autonomous driving, the future has arrived**  
 &emsp;&emsp;-Collected 792 questionnaires and conducted statistical analysis on the data. Established a model to explore the factors that affect the willingness to use and pay of shared autonomous vehicle (SAV)  
-&emsp;&emsp;-Responsible for model construction and text mining to determine the significant features of the SAV user group  
-**Project results:**  
+&emsp;&emsp;-Responsible for model construction and text mining to determine the significant features of the SAV user group 
+***Project results:***  
 &emsp;&emsp;&emsp;National Student Market Research and Analysis Competition&emsp;Third Prize  
 &emsp;&emsp;&emsp;[China National University Student Innovation & Entrepreneurship Development Program](../images/certificate.jpg)
 
@@ -77,7 +77,7 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 &emsp;&emsp;Finally obtained project certificates and passed the exam  
 ![certificate](../images/certificate1.jpg)
 - *2023.01*&emsp;&emsp;Future Elite Project&emsp;&emsp;University of Hong Kong  
-&emsp;&emsp;Studied courses at the University of Hong Kong, experienced the corporate culture of Prudential
+&emsp;&emsp;Studied courses at the University of Hong Kong, experienced the corporate culture of Prudential  
 &emsp;&emsp;Ultimately obtained project certificates and recommendation letters  
 ![certificate](../images/certificate2.jpg)![certificate](../images/certificate3.jpg)
 
