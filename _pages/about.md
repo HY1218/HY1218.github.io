@@ -19,33 +19,33 @@ redirect_from:
 
 &emsp;I'm a fourth year undergraduate student from [School of Artificial Intelligence](https://sjxy.jhun.edu.cn/), [Jianghan University](https://www.jhun.edu.cn/). My research interest includes computer vision, machine/deep learning, data-centric AI and data mining.
 
-My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+&emsp;My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 # 📝 Publications 
 
-**[2023 EEI]**[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)
+**[2023 EEI]**[A new type of optical power meter based on silicon photovoltaic cells](https://ieeexplore.ieee.org/abstract/document/10212483)  
 **Yin Huang**; Zhongyuan Lai; Hui Lan; Jinshan Sun  
 
 **[2022 ICETCI]**[TGNN: Topic-aware Graph Neural Network for Identifying Fake News from Social Media](https://ieeexplore.ieee.org/document/9832149)  
 Wang Gao; Mingyuan Ni; **Yin Huang**  
 
 # 💻 Internship Experiences
-- **Datang Internet Technology (Wuhan) Co., Ltd.**&emsp;&emsp;06/2023-07/2023
+- **Datang Internet Technology (Wuhan) Co., Ltd.**&emsp;&emsp;06/2023-07/2023  
 &emsp;&emsp;Data warehouse construction, data analysis based on big data components geared towards business data needs  
 &emsp;&emsp;Processed of data sets and model creation, training, and evaluation using the JAVA programming language
 
--  **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;09/2023-11/2023  
+- **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;09/2023-11/2023  
 &emsp;&emsp;-Label and process raw data to train and evaluate AI product related algorithms, functionality and performance  
-&emsp;&emsp;-Monitor, analyse, and manage AI product application data.
+&emsp;&emsp;-Monitor, analyse, and manage AI product application data
 
 # 📖 PROJECTS EXPERIENCES
 - **Fishing Circle**  
 &emsp;&emsp;-Accomplished features like automatic oxygenation and feeding, environmental regulation, early warning, remote control of mobile phone APP, establishment of AI knowledge base to assist breeding, etc  
 &emsp;&emsp;-As a project leader, provide overall co-ordination and planning for the project. Responsible for the underwater fish target identification component   
-&emsp;**Project results:**  
-&emsp;&emsp;&emsp;"Challenge Cup" Student Entrepreneurship Programme Competition&emsp;Bronze Award  
-&emsp;&emsp;&emsp;Internet+ College Students Innovation and Entrepreneurship Competition&emsp;Bronze Award  
-&emsp;&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../images/patent.jpg)
+**Project results:**  
+&emsp;&emsp;"Challenge Cup" Student Entrepreneurship Programme Competition&emsp;Bronze Award  
+&emsp;&emsp;Internet+ College Students Innovation and Entrepreneurship Competition&emsp;Bronze Award  
+&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../images/patent.jpg)
 
 - **Sightpath - Driving Behaviour Detection and Analysis**  
 &emsp;&emsp;-Design a driving detection system to monitor whether drivers engage in illegal driving behaviors, including fatigue driving, making phone calls, drinking water, etc  
@@ -69,14 +69,11 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 - 2021&2023&emsp;Outstanding Student Leader Scholarship of Jianghan University  
 
 # 💬 External Exchange Programmes
-- *2023.01*&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge
+- *2023.01*&emsp;&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge  
 &emsp;&emsp;Establish the ability to think about problems in multiple dimensions through professional lectures and interactive classes
 ![../images/certificate1.jpg]
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"</div><img src='images/certificate1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- *2023.01*&emsp;&emsp;Future Elite Project&emsp;&emsp;University of Hong Kong  
+&emsp;&emsp;Studied courses at the University of Hong Kong, experienced the corporate culture of Prudential
+&emsp;&emsp;Ultimately obtained project certificates and recommendation letters
+![../images/certificate2.jpg]![../images/certificate3.jpg]
 
-- *2023.01*&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge
-&emsp;&emsp;Establish the ability to think about problems in multiple dimensions through professional lectures and interactive classes<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-</div>
-</div>
