@@ -20,7 +20,7 @@ redirect_from:
 &emsp;I'm a fourth year undergraduate student from [School of Artificial Intelligence](https://sjxy.jhun.edu.cn/), [Jianghan University](https://www.jhun.edu.cn/). My research interest includes computer vision, machine/deep learning, data-centric AI and data mining.
 
 &emsp;My CV:[HY's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)  
-&emsp;My Academic Transcript:[Transcript](../assets/Transcript.jpg)
+&emsp;My Academic Transcript:[Transcript](../assets/Transcript.pdf)
 
 # 📝 Publications 
 
@@ -48,7 +48,7 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 ***Project results:***  
 &emsp;&emsp;"Challenge Cup" Student Entrepreneurship Programme Competition&emsp;Bronze Award  
 &emsp;&emsp;Internet+ College Students Innovation and Entrepreneurship Competition&emsp;Bronze Award  
-&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../images/patent.jpg)  
+&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../assets/patent.pdf)  
 
 
 - **Sightpath - Driving Behaviour Detection and Analysis**  
