@@ -48,7 +48,7 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 ***Project results:***  
 &emsp;&emsp;"Challenge Cup" Student Entrepreneurship Programme Competition&emsp;Bronze Award  
 &emsp;&emsp;Internet+ College Students Innovation and Entrepreneurship Competition&emsp;Bronze Award  
-&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../assets/patent.pdf)  
+&emsp;&emsp;[A utility model patent:Fishpond Farming Robot](../assets/patent.PDF)  
 
 
 - **Sightpath - Driving Behaviour Detection and Analysis**  
@@ -75,10 +75,8 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 # 💬 External Exchange Programmes
 - *2023.01-2023.02*&emsp;&emsp;Future Technology Elite Programme&emsp;&emsp;University of Cambridge  
 &emsp;&emsp;-Established the ability to think about problems in multiple dimensions through professional lectures and interactive classes  
-&emsp;&emsp;-Finally obtained project certificates and passed the exam  
-![certificate](../images/certificate1.jpg)
+&emsp;&emsp;-Finally obtained project [certificate](../images/certificate1.jpg) and passed the exam  
+
 - *2023.08*&emsp;&emsp;Future Elite Project&emsp;&emsp;University of Hong Kong  
 &emsp;&emsp;-Studied courses at the University of Hong Kong, experienced the corporate culture of Prudential  
-&emsp;&emsp;-Ultimately obtained project certificates and recommendation letters  
-![certificate](../images/certificate2.jpg)![certificate](../images/certificate3.jpg)
-
+&emsp;&emsp;-Ultimately obtained project [certificates](../images/certificate2.jpg) and [recommendation letters](../images/certificate3.jpg)  
