@@ -19,7 +19,8 @@ redirect_from:
 
 &emsp;I'm a fourth year undergraduate student from [School of Artificial Intelligence](https://sjxy.jhun.edu.cn/), [Jianghan University](https://www.jhun.edu.cn/). My research interest includes computer vision, machine/deep learning, data-centric AI and data mining.
 
-&emsp;My CV:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+&emsp;My CV:[HY's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+&emsp;My Academic Transcript:[Transcript](../assets/Transcript.pdf)
 
 # 📝 Publications 
 
@@ -36,7 +37,7 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 &emsp;&emsp;-Processed of data sets and model creation, training, and evaluation used the JAVA programming language
 
 
-- **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;2023.11-2023.09  
+- **Taibao Technology Co., Ltd.**&emsp;&emsp;&emsp;2023.09-2023.11  
 &emsp;&emsp;-Label and process raw data to train and evaluate AI product related algorithms, functionality and performance  
 &emsp;&emsp;-Monitor, analyse, and manage AI product application data
 
