@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Huang Yin"
-description              : "　　黄　茵"
+description              : "　　黄　　茵"
 repository               : "HY1218/HY1218.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "　　Huang Yin"
+  name             : "　Huang Yin"
   avatar           : "images/myphoto.png"
   bio              : # "Lorem ipsum College"
   location         : "Wuhan, China"
