@@ -55,16 +55,16 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 &emsp;&emsp;-Designed a driving detection system to monitor whether drivers engage in illegal driving behaviors, including fatigue driving, making phone calls, drinking water, etc  
 &emsp;&emsp;-In charge of model construction and testing to improve model accuracy  
 ***Project results:***   
-&emsp;&emsp;&emsp;China University Computer Design Competition&emsp;Third Prize  
-&emsp;&emsp;&emsp;[A software copyright:Sightpath - Driving Behavior Detection and Analysis Software System V1.0](../images/copyright.jpg)  
+&emsp;&emsp;China University Computer Design Competition&emsp;Third Prize  
+&emsp;&emsp;[A software copyright:Sightpath - Driving Behavior Detection and Analysis Software System V1.0](../images/copyright.jpg)  
 
 
 - **Autonomous driving, the future has arrived**  
 &emsp;&emsp;-Collected 792 questionnaires and conducted statistical analysis on the data. Established a model to explore the factors that affect the willingness to use and pay of shared autonomous vehicle (SAV)  
 &emsp;&emsp;-Responsible for model construction and text mining to determine the significant features of the SAV user group  
 ***Project results:***  
-&emsp;&emsp;&emsp;National Student Market Research and Analysis Competition&emsp;Third Prize  
-&emsp;&emsp;&emsp;[China National University Student Innovation & Entrepreneurship Development Program](../images/certificate.jpg)
+&emsp;&emsp;National Student Market Research and Analysis Competition&emsp;Third Prize  
+&emsp;&emsp;[China National University Student Innovation & Entrepreneurship Development Program](../images/certificate.jpg)
 
 # 🎖 Awards
 - 2023&emsp;National Scholarship  
