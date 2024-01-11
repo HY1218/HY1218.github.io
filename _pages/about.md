@@ -60,7 +60,7 @@ Wang Gao; Mingyuan Ni; **Yin Huang**
 
 - **Autonomous driving, the future has arrived**  
 &emsp;&emsp;-Collected 792 questionnaires and conducted statistical analysis on the data. Established a model to explore the factors that affect the willingness to use and pay of shared autonomous vehicle (SAV)  
-&emsp;&emsp;-Responsible for model construction and text mining to determine the significant features of the SAV user group 
+&emsp;&emsp;-Responsible for model construction and text mining to determine the significant features of the SAV user group  
 ***Project results:***  
 &emsp;&emsp;&emsp;National Student Market Research and Analysis Competition&emsp;Third Prize  
 &emsp;&emsp;&emsp;[China National University Student Innovation & Entrepreneurship Development Program](../images/certificate.jpg)
