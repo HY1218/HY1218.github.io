@@ -20,7 +20,7 @@ redirect_from:
 &emsp;I'm a fourth year undergraduate student from [School of Artificial Intelligence](https://sjxy.jhun.edu.cn/), [Jianghan University](https://www.jhun.edu.cn/). My research interest includes computer vision, machine/deep learning, data-centric AI and data mining.
 
 &emsp;My CV:[HY's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)  
-&emsp;My Academic Transcript:[Transcript](../assets/Transcript.pdf)
+&emsp;My Academic Transcript:[Transcript](../assets/Transcript.jpg)
 
 # 📝 Publications 
 
